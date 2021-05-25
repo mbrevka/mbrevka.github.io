@@ -1,0 +1,44 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#container {
+    background: #0d1821;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+#boxcontainer {
+    margin: auto;
+    margin-top: 15%;
+    width: 906px;
+    padding: 10px;
+}
+
+.box {
+    margin: 20px;
+    height: 256px;
+    width: 256px;
+    background: red;
+    position: relative;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+}
+
+.title {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
