@@ -21,7 +21,7 @@ a {
     left: 0px;
     right: 1200px;
     position: absolute;
-    background: #ed6a5e;
+    background: #70a9a1;
 }
 
 #box2 {
@@ -30,7 +30,7 @@ a {
     left: 720px;
     right: 0px;
     position: absolute;
-    background: #ffaf87;
+    background: #cfe0c3;
 }
 
 #box3 {
@@ -39,7 +39,7 @@ a {
     left: 0px;
     right: 0px;
     position: absolute;
-    background: #ffaf87;
+    background: #cfe0c3;
 }
 
 
@@ -102,7 +102,7 @@ a {
     border-radius: 10px;
     font-size: 35px;
     color: #fff;
-    background: #ff8e72;
+    background: #9ec1a3;
 }
 
 .memcontainer {
@@ -117,7 +117,7 @@ a {
     border-radius: 10px;
     font-size: 35px;
     color: #fff;
-    background: #ff8e72;
+    background: #9ec1a3;
     position: relative;
     z-index: 1000;
 }
@@ -125,7 +125,7 @@ a {
 .conbox {
     width: 33%;
     vertical-align: middle;
-    margin-top: 25px;
+    margin-top: 15%;
     padding-left: 65px;
     padding-right: 50px;
     float: left;
@@ -139,7 +139,7 @@ a {
     border: 3px solid #fff;
     border-radius: 10px;
     color: #fff;
-    background: #ff8e72;
+    background: #9ec1a3;
     font-size: 35px;
     position: relative;
     z-index: 1000;
